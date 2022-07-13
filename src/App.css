@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.header-nav{
+  margin: 10px 200px;
+}
+.tab-y-spacing{
+  margin-top:  32px;
+  margin-bottom:  10px;
+}
+
+.m-margin{
+  margin-left: auto;
+}
