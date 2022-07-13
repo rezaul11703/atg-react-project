@@ -143,6 +143,11 @@ const Navigation = () => {
           </Navbar.Collapse>
         </Container>
       </Navbar>
+      <img
+        src="../../../public/Images/CoverImg.png"
+        class="img-fluid"
+        alt="..."
+      />
     </div>
   );
 };
