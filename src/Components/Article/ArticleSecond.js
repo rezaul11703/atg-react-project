@@ -1,4 +1,5 @@
 import React from "react";
+import ForValidUser from "./ForValidUser";
 
 const ArticleSecond = () => {
   return (
@@ -53,12 +54,13 @@ const ArticleSecond = () => {
             />
           </g>
         </svg>
-
         <small>
           Your location will help us serve better and extend a personalised
           experience.
         </small>
       </span>
+
+      <ForValidUser></ForValidUser>
     </div>
   );
 };
